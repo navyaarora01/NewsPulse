@@ -8,8 +8,8 @@ const classes = useStyles();
 
 const infoCards = [
 	{ color:'whitesmoke' , title: 'Latest News', text: 'Give me the latest news' },
-	{ color: 'whitesmoke', title: 'News by Categories', info: 'Business, Entertainment, General, Health, Science, Sports, Technology', text: 'Give me the latest Technology news' },
-	{ color: 'whitesmoke', title: 'News by Terms', info: 'Bitcoin, PlayStation 5, Smartphones, Donald Trump...', text: 'What\'s up with PlayStation 5' },
+	{ color: 'whitesmoke', title: 'News by Categories', info: 'Business, Entertainment, Science, Sports, Technology', text: 'Give me the latest Technology news' },
+	{ color: 'whitesmoke', title: 'News by Terms', info: 'Bitcoin, COVID-19, Climate change, Rishi Sunak...', text: 'What\'s up with PlayStation 5' },
 	{ color: 'whitesmoke', title: 'News by Sources', info: 'CNN, Wired, BBC News, Time, IGN, Buzzfeed, ABC News...', text: 'Give me the news from CNN' },
   ];
 
