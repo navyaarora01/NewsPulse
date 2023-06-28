@@ -1,5 +1,5 @@
 # NewsPulse - An AI conversational News App
-NewsPulse is an A.I. Conversational News Application integrated using Alan AI, a speech recognition software that adds voice and speech functionality. It is a fully responsive application and has a user interface developed using the Material-UI.
+NewsPulse is an A.I. Conversational News Application integrated using Alan AI, a speech recognition software that adds voice and speech functionality. It is a fully responsive application and has an attractive user interface developed using the Material-UI.
 
 
 ## Technical Information
