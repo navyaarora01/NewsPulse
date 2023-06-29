@@ -8,16 +8,16 @@ NewsPulse is an A.I. Conversational News Application integrated using Alan AI, a
   <li> The application is fully responsive and the user interface is created using the Material-UI library of react js.</li>
   <li>It works on voice commands given by the user and as per the voice commands news API fetches the latest news from various sources, channels, and categories and displays it on the screen.</li>
   <li>The alan ai provides the functionality of reading the headlines and going back to the previous page as soon as the user gives voice instructions.</li>
-  <li>To read the article in detail you can go back to the original article on the website by clicking on the article.</li>
+  <li>To read the article in detail you can move to the original article on the website by clicking on the article.</li>
 
  </ul>
  
  ## How to operate the Application
  <ul>
-  <li>Introduction - Press the Alan voice button and ask **'What does this app do?'** and it will give you a brief about the NewsPulse.</li>
+  <li>Introduction - Press the Alan voice button and ask <b>'What does this app do?'</b> and it will give you a brief about the NewsPulse.</li>
   <li>News From Different Sources - You can search the Latest news from different channels, and ask the alan about any particular current affair or by different categories. All the instructions about the voice commands are provided on the home screen.</li>
   <li>Reading Headlines - After displaying the new headlines on the screen, it reads the headlines as per the user's instructions. </li>
-  <li>Go Back functionality - AT any moment if the user felt the need to go to the previous page of the application, he can just press the voice button and say **' Go Back'** .</li>
+  <li>Go Back functionality - At any moment if the user felt the need to go to the previous page of the application, he can just press the voice button and say <b>' Go Back'</b>.</li>
 
  </ul>
  
