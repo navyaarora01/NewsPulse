@@ -13,7 +13,8 @@ NewsPulse is an A.I. Conversational News Application integrated using Alan AI, a
  <ul>
   <li>Introduction - Press the Alan voice button and ask **'What does this app do?'** and it will give you a brief about the NewsPulse.</li>
   <li>News From Different Sources - You can search the Latest news from different channels, and ask the alan about any particular current affair or by different categories. All the instructions about the voice commands are provided on the home screen.</li>
-  <li>Reading Headlines - </li>
+  <li>Reading Headlines - After displaying the new headlines on the screen, it reads the headlines as per the user's instructions. </li>
+  <li>Go Back functionality - AT any moment if the user felt the need to go to the previous page of the application, he can just press the voice button and say **' Go Back'** .</li>
 
  </ul>
  
