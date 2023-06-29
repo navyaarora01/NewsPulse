@@ -9,9 +9,11 @@ NewsPulse is an A.I. Conversational News Application integrated using Alan AI, a
 
  </ul>
  
- ## FEATURES IMPLEMENTED IN THE PROJECT
+ ## How to operate the Application
  <ul>
-  <li>Generate the images- The create button on the nav bar will redirect us to the image generation section. Here we will be able to generate a random image concerning the prompt written or by clicking the 'Suprise Me' button to get a random prompt.</li>
+  <li>Introduction - Press the Alan voice button and ask **'What does this app do?'** and it will give you a brief about the NewsPulse.</li>
+  <li>News From Different Sources - You can search the Latest news from different channels, and ask the alan about any particular current affair or by different categories. All the instructions about the voice commands are provided on the home screen.</li>
+  <li>Reading Headlines - </li>
 
  </ul>
  
