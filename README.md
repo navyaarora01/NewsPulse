@@ -2,10 +2,13 @@
 NewsPulse is an A.I. Conversational News Application integrated using Alan AI, a speech recognition software that adds voice and speech functionality. It is a fully responsive application and has an attractive user interface developed using the Material-UI.
 
 
-## Technical Information
+## Technical Information and Features Implemented
 <ul>
-  <li>This application is created primarily with the help of MERN Stack (MongoDB, Express.js, React.js, Node.js) Technologies.</li>
-  <li> I have used the MongoDB Atlas Database to store the data of the users who generate the images into the website and then share them with the community.</li>
+   <li>This application is created primarily with the help of HTML, CSS, JS, and React JS Technologies.</li>
+  <li> The application is fully responsive and the user interface is created using the Material-UI library of react js.</li>
+  <li>It works on voice commands given by the user and as per the voice commands news API fetches the latest news from various sources, channels, and categories and displays it on the screen.</li>
+  <li>The alan ai provides the functionality of reading the headlines and going back to the previous page as soon as the user gives voice instructions.</li>
+  <li>To read the article in detail you can go back to the original article on the website by clicking on the article.</li>
 
  </ul>
  
